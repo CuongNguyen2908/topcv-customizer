@@ -16,7 +16,7 @@ const topCVCustomizer = () => {
                 width: 73%
             }
             @media print {
-                #cvo-experience {page-break-before: always;}
+                #cvo-activity {page-break-before: always;}
             }
 
             span.code {
